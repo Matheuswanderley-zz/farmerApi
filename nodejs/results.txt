@@ -1,0 +1,14 @@
+
+[0m[0m
+[32minfo[39m: Server listen on 192.168.0.42:3999 start up at 2020-08-21T17:51:07.575Z
+[0m  /support[0m
+[32minfo[39m: ::ffff:127.0.0.1 - - [21/Aug/2020:17:51:07 +0000] "GET /support/ping HTTP/1.1" 200 17 "-" "node-superagent/2.3.0"
+
+  [32m  ✓[0m[90m /ping[0m
+[32minfo[39m: ::ffff:127.0.0.1 - - [21/Aug/2020:17:51:07 +0000] "GET /support/echo/test HTTP/1.1" 200 17 "-" "node-superagent/2.3.0"
+
+  [32m  ✓[0m[90m /echo/test[0m
+
+
+[92m [0m[32m 2 passing[0m[90m (30ms)[0m
+

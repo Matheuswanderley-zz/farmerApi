@@ -1,0 +1,20 @@
+{
+    "server": {
+        "name": "sed-it-name-app",
+        "version": "1.0.0",
+        "running": true
+    },
+    "jwt": {
+        "header": "Authorization",
+        "secret": "sed-it-name-app-changeme-please"
+    },
+    "logger": {
+        "file": {
+            "path": "./sed-it-name-app",
+            "level": "debug"
+        },
+        "console": {
+            "level": "debug"
+        }
+    }
+}

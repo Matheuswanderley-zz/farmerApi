@@ -1,0 +1,128 @@
+[
+    {
+      "id": "5b9eda53eeab321ed05855f5",
+      "name": "Douglas",
+      "document": {
+        "type": "CNPJ",
+        "number": "202976591455"
+      },
+      "address": {
+        "street": "Harkness Avenue",
+        "state": "Oregon",
+        "address": "356",
+        "country": "Philippines"
+      }
+    },
+    {
+      "id": "5b9eda537d84d82288c77706",
+      "name": "Estes",
+      "document": {
+        "type": "CNPJ",
+        "number": "420393138113"
+      },
+      "address": {
+        "street": "Barwell Terrace",
+        "state": "Missouri",
+        "address": "757",
+        "country": "Congo"
+      }
+    },
+    {
+      "id": "5b9eda533999f86e7ec1e459",
+      "name": "Rowe",
+      "document": {
+        "type": "CPF",
+        "number": "132195964668"
+      },
+      "address": {
+        "street": "Milford Street",
+        "state": "Florida",
+        "address": "700",
+        "country": "New Caledonia"
+      }
+    },
+    {
+      "id": "5b9eda538670ad97676722a6",
+      "name": "Trina",
+      "document": {
+        "type": "CNPJ",
+        "number": "332690840205"
+      },
+      "address": {
+        "street": "Box Street",
+        "state": "Kentucky",
+        "address": "568",
+        "country": "Burkina Faso"
+      }
+    },
+    {
+      "id": "5b9eda53141abe3e3f001600",
+      "name": "Lucia",
+      "document": {
+        "type": "CPF",
+        "number": "570465309318"
+      },
+      "address": {
+        "street": "Lincoln Avenue",
+        "state": "North Carolina",
+        "address": "385",
+        "country": "Papua New Guinea"
+      }
+    },
+    {
+      "id": "5b9eda53e5f056e7c2731813",
+      "name": "Leah",
+      "document": {
+        "type": "CPF",
+        "number": "660445287707"
+      },
+      "address": {
+        "street": "Fair Street",
+        "state": "District Of Columbia",
+        "address": "335",
+        "country": "Korea (South)"
+      }
+    },
+    {
+      "id": "5b9eda5386fcc55e238ebeaa",
+      "name": "Rachael",
+      "document": {
+        "type": "CPF",
+        "number": "414612864850"
+      },
+      "address": {
+        "street": "Central Avenue",
+        "state": "Tennessee",
+        "address": "557",
+        "country": "Guadeloupe"
+      }
+    },
+    {
+      "id": "5b9eda5368084f05563c3d18",
+      "name": "Wilson",
+      "document": {
+        "type": "CPF",
+        "number": "132749112517"
+      },
+      "address": {
+        "street": "Livonia Avenue",
+        "state": "New Mexico",
+        "address": "541",
+        "country": "Wallis and Futuna Islands"
+      }
+    },
+    {
+      "id": "5b9eda531156c550fcab04ba",
+      "name": "Connie",
+      "document": {
+        "type": "CPF",
+        "number": "545084551766"
+      },
+      "address": {
+        "street": "Oriental Boulevard",
+        "state": "New York",
+        "address": "565",
+        "country": "Saudi Arabia"
+      }
+    }
+  ]
